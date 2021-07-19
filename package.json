@@ -1,0 +1,19 @@
+{
+  "name": "@shilongfeicool/my-packages",
+  "version": "1.0.0",
+  "description": "this is my package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shilongfeicool/my-packages.git"
+  },
+  "author": "shilongfei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shilongfeicool/my-packages/issues"
+  },
+  "homepage": "https://github.com/shilongfeicool/my-packages#readme"
+}
