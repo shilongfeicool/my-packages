@@ -8,7 +8,7 @@
  * 第五步找出最长的那个字符串
  * @returns str[]
  */
-export function getLongStr() {
+export function getLongStr(str) {
     let obj = {}; // 所有可能的字符集
     for (let i = 0; i <= str.length; i++) {
         for (let j = i + 1; j <= str.length; j++) {

@@ -1,6 +1,6 @@
 {
     "name": "@shilongfeicool/my-packages",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "this is my package",
     "main": "index.js",
     "scripts": {
